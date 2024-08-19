@@ -1,3 +1,5 @@
+08/10/2024 :  fix Youtube live videos start time
+
 # node-red-contrib-castv2
 
 A Node-Red node that provides basic Google Cast functionality based on the node-castv2-client package.
